@@ -1,0 +1,6 @@
+br\com\vitta\service\TerritoriesServiceImpl.class
+br\com\vitta\springboot\TerritoriesApp.class
+br\com\vitta\controller\RestApiController.class
+br\com\vitta\util\Error.class
+br\com\vitta\model\Territory.class
+br\com\vitta\service\TerritoriesService.class

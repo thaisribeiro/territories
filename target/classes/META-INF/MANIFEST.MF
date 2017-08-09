@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Territories
+Implementation-Version: 1.0.0
+Built-By: tnascimr
+Implementation-Vendor-Id: br.com.vitta
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/Territories/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
